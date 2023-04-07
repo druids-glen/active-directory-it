@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Simple LDAP server simulating AD for integration testing","text":"<p>This is a simple LDAP server that tries to simulate an Active Directory using an Apache Directory Server.</p> <p>Is based on:</p> <ul> <li>Josef Cacek's ldap_server</li> <li>SAP's SapMachine</li> </ul>"}]}
